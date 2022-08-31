@@ -1,4 +1,4 @@
-# Code-O-Pedia
+# Code-O-Country
 
 This is a website which helps us to get the varioud country code out there bu just one click.
 
